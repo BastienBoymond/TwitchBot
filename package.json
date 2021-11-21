@@ -1,0 +1,28 @@
+{
+  "name": "twitchbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BastienBoymond/TwitchBot.git"
+  },
+  "keywords": [
+    "Twitch",
+    "Bot",
+    "command"
+  ],
+  "author": "BastienBoymond",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BastienBoymond/TwitchBot/issues"
+  },
+  "homepage": "https://github.com/BastienBoymond/TwitchBot#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "tmi.js": "^1.8.5"
+  }
+}
